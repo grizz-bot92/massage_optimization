@@ -1,0 +1,14 @@
+/excel_files
+data/*.csv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+venv/
+.env/
+*.env
+
+.DS_Store
+Thumbs.db
