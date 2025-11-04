@@ -1,7 +1,11 @@
 # massage_optimization
 
-GOAL:
+Project Overview
 
-    Measure scheduling efficiency, revenue trends, cancellations, and simulate how a more optimized schedule could reduce idle time and improve utilization.
+The Appointment Trends and Optimization project aims to analyze historical appointment data for my massage therapy clientele to identify trends and optimize scheduling practices. The ultimate goal is to enhance operational efficiency and improve client satisfaction.
+
+Table of Contents
+
+
 
 
