@@ -15,15 +15,19 @@ The **Appointment Trends and Optimization** project aims to analyze historical a
 - [Installation](#installation)
 
 ## Data Collection
-  - **Source**: Extracted appotinment records from PostgreSql database.
-  - **Data Points**: Collected data on client demographics, appointment types, service durations, cost, and sceduling patterns.
+- **Source**: Extracted appotinment records from PostgreSql database.
+- **Data Points**: Collected data on client demographics, appointment types, service durations, cost, and sceduling patterns.
  
 ## Data Cleaning and Preparation
-  - Utilized Python with libraries like Pandas to preprocess the data:
-    - Handled missing values and performed data type conversions.
-    - Created new features such as day of the week and time of day for analysis
-    - Created csv for standardizing hours worked for the years 2021-2024
-  ##
+- Utilized Python with libraries like Pandas to preprocess the data:
+  - Handled missing values and performed data type conversions.
+  - Created new features such as day of the week and time of day for analysis
+  - Created csv for standardizing hours worked for the years 2021-2024
+
+## Data Analysis
+- Conducted exploratory data analysis to idnetify key trends:
+  - Analyzed appointment frequency by day and time to determine peak booking hours.
+  - 
       
 
 
