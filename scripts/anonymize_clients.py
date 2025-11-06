@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-RAW  = Path("excel_files/updated_merged_massage_clients.csv")
+RAW  = Path("excel_files/cleaned_massage_data.csv")
 OUT = Path("data/anonymized_clients.csv")
 
 df  = pd.read_csv(RAW)
