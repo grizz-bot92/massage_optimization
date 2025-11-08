@@ -26,7 +26,7 @@ SET expected_revenue = CASE
     WHEN treatment_name LIKE '%Swedish%' AND duration = 60 THEN 105.00
     WHEN treatment_name LIKE '%Swedish%' AND duration = 90 THEN 145.00
     WHEN treatment_name LIKE '%cbd%' THEN 110.00
-    WHEN treatment_name LIKE '%Back & Shoulders' THEN 60.00
+    WHEN treatment_name LIKE '%Back & Shoulder%' THEN 60.00
     WHEN treatment_name LIKE '%Hot Stone%' THEN 165.00
     WHEN treatment_name LIKE '%Prenatal%' THEN 110.00
     WHEN treatment_name LIKE '%Aromatherapy%' THEN 160.00
